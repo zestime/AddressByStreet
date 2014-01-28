@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings name="추적 및 테스트 영향" id="db416cc2-cf3a-4230-9a43-de83cd667cd1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description>추적 및 테스트 영향에 대한 테스트 설정입니다.</Description>
+  <Execution>
+    <TestTypeSpecific />
+    <AgentRule name="Execution Agents">
+    </AgentRule>
+  </Execution>
+</TestSettings>
